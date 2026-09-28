@@ -1,5 +1,3 @@
-```go
-func main() {
-    fmt.Println("Hi")
-}
+```elisp
+(message "Hello!")
 ```
